@@ -291,5 +291,3 @@ module.exports = {
   isString: isString,
   getCardId: getCardId
 };
-
-//# sourceMappingURL=01-strings-tasks-compiled.js.map
